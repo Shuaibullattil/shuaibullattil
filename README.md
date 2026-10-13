@@ -45,7 +45,7 @@ A mobile-first web application that lets tennis fans interact with an AI assista
 - Designed a DynamoDB single-table data model for users' favourite players.
 - Automated backend deployment using GitHub Actions and AWS OIDC.
 
-**[Live Demo](https://d11z34bnanm4q2.cloudfront.net/) · [Backend Repository](https://github.com/Shuaibullattil/sports-buddy) · [Frontend Repository](https://github.com/Shuaibullattil/sports-buddy-ui)**
+**[Live Demo](https://d11z34bnanm4q2.cloudfront.net/) · [Backend Repository](https://github.com/Shuaibullattil/sports-buddy) · [Frontend Repository](https://github.com/Shuaibullattil/tennis-buddy-ui)**
 
 ### 🏠 LateCheck — Hostel Management Web App
 
