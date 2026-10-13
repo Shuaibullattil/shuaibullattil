@@ -53,7 +53,7 @@ A mobile-first web application that lets tennis fans interact with an AI assista
 - Implemented QR-code-based resident tracking, reducing manual tracking time by 80%.
 - Developed real-time student–warden communication using WebSockets.
 
-**[Source Code]([YOUR_LATECHECK_REPOSITORY_URL](https://github.com/Shuaibullattil/latecheck)**
+**[Source Code]((https://github.com/Shuaibullattil/latecheck)**
 
 ## 💼 Experience
 
